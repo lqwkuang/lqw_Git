@@ -1,0 +1,12 @@
+# ninja log v5
+27	702	7511176069581158	CMakeFiles/RGS.dir/src/RGS/Maths.cpp.obj	eb7b8cade4653c1a
+103	2722	7513503333247935	CMakeFiles/RGS.dir/src/RGS/Application.cpp.obj	952fabba125f199c
+2722	5003	7513503348682445	RGS.exe	4b0403eef8419221
+114	1682	7513503322825388	CMakeFiles/RGS.dir/src/RGS/Shader/BlinnShader.cpp.obj	906983b67fcec798
+46	632	7511176068812698	CMakeFiles/RGS.dir/src/RGS/stb/std_image.cpp.obj	cafb7153e12028b7
+18	1057	7511176073129891	CMakeFiles/RGS.dir/src/RGS/Window.cpp.obj	d33938ab9eca65f
+22	1183	7511176074390548	CMakeFiles/RGS.dir/src/RGS/WindowsWindow.cpp.obj	a3344b5019691525
+91	2305	7513503329073265	CMakeFiles/RGS.dir/src/RGS/Main.cpp.obj	1830766def421a4d
+31	698	7511176069511154	CMakeFiles/RGS.dir/src/RGS/Framebuffer.cpp.obj	799f32f64e0b2a37
+126	1687	7513503322909075	CMakeFiles/RGS.dir/src/RGS/Render.cpp.obj	b33373e02e920f4a
+138	2077	7513503326786305	CMakeFiles/RGS.dir/src/RGS/Texture.cpp.obj	f4c0d3154e3b2773
